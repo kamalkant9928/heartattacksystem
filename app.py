@@ -1,7 +1,7 @@
 # app/app.py
 
 import streamlit as st
-from src.predict import predict_heart_disease
+from predict import predict_heart_disease
 
 st.set_page_config(page_title="Heart Disease Predictor", layout="centered")
 
