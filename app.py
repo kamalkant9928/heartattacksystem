@@ -5,7 +5,7 @@ from predict import predict_heart_disease
 
 st.set_page_config(page_title="Heart Disease Predictor", layout="centered")
 
-st.title("❤️ Heart Disease Prediction App")
+st.title("____****** Heart Disease Prediction App*********__________")
 
 st.write("Enter patient details below:")
 
