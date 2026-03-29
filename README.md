@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction System
+#  Heart Disease Prediction System
 
 ##  Overview
 
